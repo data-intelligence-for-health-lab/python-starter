@@ -9,15 +9,15 @@ To get a deeper understanding of the code structure and gain more background abo
 
 ## Structure
 
-`/module` This folder shoul contain a single module. You can have multiple modules in this project. Feel free to rename it to whichever module name you like.
+`/module` This folder should contain a single module. You can have multiple modules in this project. Feel free to rename it to whichever module name you like.
 
 `/tests` This is where your tests will live.
 
-`LICENSE` This file contains the license, by default its closed. To use an opensource license when the project is public, use the MIT License.
+`LICENSE` This file contains the license, by default its a closed license.
 
 `.gitignore` Use this file to IGNORE any files that are sensitive and you don't want to commit to the repo (patient data, passwords and so on).
 
-You can ignore induvidual files like `secrets.env`
+You can ignore individual files like `secrets.env`
 
 You can ignore folders like `/data`
 
